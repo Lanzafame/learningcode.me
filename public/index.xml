@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Aug 2015 18:48:45 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://localhost:1313/post/first/</link>
+      <pubDate>Wed, 26 Aug 2015 18:48:45 +1000</pubDate>
+      
+      <guid>http://localhost:1313/post/first/</guid>
+      <description>&lt;p&gt;Currently testing out a new static site generator called
+&lt;a href=&#34;http://gohugo.io&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So far I am happy. And since it is written in &lt;a href=&#34;http://golang.org&#34;&gt;Golang&lt;/a&gt;,
+which is one of the three languages I have decided to focus my attention on,
+this means I can hack away at some of its internals when I find the time :-/.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 26 Aug 2015 18:41:50 +1000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hello, world!&lt;/p&gt;
+
+&lt;p&gt;I am a developer, entrepreneur, geologist.&lt;/p&gt;
+
+&lt;p&gt;This is a place for me to share the knowledge I gain in my everyday meanderings
+through life and the internet.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+&lt;p&gt;Github: &lt;a href=&#34;https://github.com/Lanzafame&#34;&gt;Lanzafame&lt;/a&gt;
+Twitter: &lt;a href=&#34;https://twitter.com/LanzafameAdrian&#34;&gt;LanzafameAdrian&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
