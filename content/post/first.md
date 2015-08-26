@@ -1,7 +1,7 @@
 +++
 date = "2015-08-26T18:48:45+10:00"
 draft = true
-title = "first"
+title = "First"
 
 +++
 Currently testing out a new static site generator called

@@ -1,3 +1,11 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://learningcode.me"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Learning Code"
+theme = "hyde"
+description = "code, startups, rocks"
+buildDrafts = true
+buildFuture = true
+
+[params]
+  disqusShortname = "learningcodeme"
+  description = "code, startups, rocks"

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Learning Code</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Learning Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Aug 2015 18:48:45 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>first</title>
+      <title>First</title>
       <link>http://localhost:1313/post/first/</link>
       <pubDate>Wed, 26 Aug 2015 18:48:45 +1000</pubDate>
       
@@ -25,7 +25,7 @@ this means I can hack away at some of its internals when I find the time :-/.&lt
     </item>
     
     <item>
-      <title>about</title>
+      <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 26 Aug 2015 18:41:50 +1000</pubDate>
       

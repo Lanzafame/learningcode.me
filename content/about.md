@@ -1,7 +1,8 @@
 +++
 date = "2015-08-26T18:41:50+10:00"
 draft = true
-title = "about"
+title = "About"
+menu = "main"
 
 +++
 Hello, world!
