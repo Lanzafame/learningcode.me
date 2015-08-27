@@ -1,0 +1,11 @@
+baseurl = "http://learningcode.me"
+languageCode = "en-us"
+title = "Learning Code"
+theme = "hyde"
+description = "code, startups, rocks"
+buildDrafts = true
+buildFuture = true
+
+[params]
+  disqusShortname = "learningcodeme"
+  description = "code, startups, rocks"
