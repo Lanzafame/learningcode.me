@@ -1,9 +1,10 @@
 +++
-date = "2015-08-26T18:48:45+10:00"
-draft = true
+date = "2015-08-30T11:10:58+10:00"
+draft = false
 title = "First"
 
 +++
+
 Currently testing out a new static site generator called
 [Hugo](http://gohugo.io).
 

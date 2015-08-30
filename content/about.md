@@ -1,10 +1,11 @@
 +++
-date = "2015-08-26T18:41:50+10:00"
-draft = true
+date = "2015-08-30T11:11:16+10:00"
+draft = false
 title = "About"
 menu = "main"
 
 +++
+
 Hello, world!
 
 I am a developer, entrepreneur, geologist.

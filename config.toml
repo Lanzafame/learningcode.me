@@ -5,6 +5,7 @@ theme = "hyde"
 description = "code, startups, rocks"
 buildDrafts = true
 buildFuture = true
+canonifyurls = true
 
 [params]
   disqusShortname = "learningcodeme"
