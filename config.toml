@@ -1,4 +1,4 @@
-baseurl = "http://learningcode.me"
+baseurl = "http://learningcode.me/"
 languageCode = "en-us"
 title = "Learning Code"
 theme = "hyde"
